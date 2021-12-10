@@ -1,5 +1,7 @@
 main branchでの記述
 first commit
+コンフリクトを起こすための記述
+second commit in main branch
 
 merge-exampleブランチでの記述
 aiueo
