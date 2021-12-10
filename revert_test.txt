@@ -1,1 +1,5 @@
+main branchでの記述
 first commit
+
+merge-exampleブランチでの記述
+aiueo
