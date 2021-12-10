@@ -1,1 +1,3 @@
+コンフリクトを起こすための記述
 first commit
+second commit in main branch
