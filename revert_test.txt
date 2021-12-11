@@ -5,3 +5,5 @@ second commit in main branch
 
 merge-exampleブランチでの記述
 aiueo
+
+branch-exampleでの記述
