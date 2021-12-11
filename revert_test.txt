@@ -7,3 +7,6 @@ merge-exampleブランチでの記述
 aiueo
 
 branch-exampleでの記述
+
+サル先生のGitコマンド
+add 変更をインデックスに登録する
